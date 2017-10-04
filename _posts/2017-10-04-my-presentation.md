@@ -1,5 +1,5 @@
 ----
--layout: posts
+-layout: post
 -title: my presentation
 -date: 2017-10-04
 -categories: blog
