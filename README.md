@@ -2,7 +2,7 @@
 
 此博客 fork 陈素封老师，老师fork自 [Azeril](http://azeril.me/)，感谢。 
 
-##伶枝
+##瑾枝
 
 我是孟维炟，博客：[zhfeat.com](zhfeat.com)
 
