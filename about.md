@@ -33,6 +33,8 @@ header-img: "img/green.jpg"
 
 - 公众号：zhfeat
 
+- 我的邮箱：zhfeat@outlook.com
+
 
 - 感谢陈素封老师[cnfeat]对个人建站的指导贴，在他的指导下才有了这个小站。
 <center>
