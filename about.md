@@ -29,7 +29,7 @@ header-img: "img/green.jpg"
 
 - [微博@zhFeat](https://weibo.com/6382285915)
 
-- [知乎@瑾枝](http://www.zhihu.com/people/zhfeat)
+- [知乎@湖光](http://www.zhihu.com/people/zhfeat)
 
 - 公众号：zhfeat
 
