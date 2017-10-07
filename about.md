@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://oxarmbdpg.bkt.clouddn.com/012.jpg" align="center"></p>
 </center>
 
 我是孟维炟，知识时代一介无名小卒，热诚渴望与你们同行，深度学习，以知识启动生命的跃迁。
