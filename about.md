@@ -38,7 +38,7 @@ header-img: "img/green.jpg"
 
 - 感谢陈素封老师[cnfeat]对个人建站的指导贴，在他的指导下才有了这个小站。
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="http://oxarmbdpg.bkt.clouddn.com/006.jpg" align="center"></p>
 </center>
 
 
