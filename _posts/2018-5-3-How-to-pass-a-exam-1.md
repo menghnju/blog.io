@@ -1,5 +1,5 @@
 ---
--layout：posts
+-layout：post
 -title：三天通关《证券从业资格考试》，我是怎样做到的？
 -date：2018-5-3
 -categories：blog
